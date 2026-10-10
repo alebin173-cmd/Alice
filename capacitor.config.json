@@ -1,0 +1,7 @@
+{
+  "appId": "com.lola.huerta",
+  "appName": "Huerta de Lola",
+  "webDir": "www",
+  "backgroundColor": "#2d4a22",
+  "android": { "allowMixedContent": false }
+}
